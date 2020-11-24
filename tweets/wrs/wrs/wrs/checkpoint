@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/joe/HSR/joe_ws/src/slang/wrs/wrs/wrs/intent_classifier_tensorflow_embedding.ckpt"
+all_model_checkpoint_paths: "/home/joe/HSR/joe_ws/src/slang/wrs/wrs/wrs/intent_classifier_tensorflow_embedding.ckpt"

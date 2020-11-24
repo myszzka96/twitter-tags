@@ -1,0 +1,20 @@
+{
+  "locate": "search",
+  "begin": "start",
+  "c'mon": "start",
+  "explore": "search",
+  "come on": "start",
+  "remember": "memorize",
+  "tape measure": "tape_measure",
+  "discover": "search",
+  "find": "search",
+  "initiate": "start",
+  "examine": "search",
+  "tape": "tape_measure",
+  "learn": "memorize",
+  "go": "start",
+  "look for": "search",
+  "commence": "start",
+  "come": "start",
+  "tape measurer": "tape_measure"
+}

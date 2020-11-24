@@ -1,0 +1,34 @@
+// Ways to say yes
+
+import ./common.chatito
+
+%[positive]('training': '100', 'testing': '50')
+    *[20%] @[yes]
+    @[yes] ~[please?] ~[its ok?]
+    ~[please?] @[yes] ~[its ok?]
+    *[20%] ~[its ok]
+
+@[yes]
+    ~[its ok]
+    yes
+    yup
+    ya
+    yez
+    really
+    that's alright
+    correct
+    do that
+
+~[its ok]
+    i want that
+    i meant that
+    i mean yes
+    i meant yes
+    that's what i want
+    that's correct
+    that's right
+    it's good
+    that is right
+    its ok
+    its correct
+

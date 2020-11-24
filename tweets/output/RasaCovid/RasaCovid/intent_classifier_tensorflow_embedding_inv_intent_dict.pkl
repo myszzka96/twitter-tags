@@ -1,0 +1,8 @@
+(dp1
+I0
+Vcovid
+p2
+sI1
+Vnegative
+p3
+s.

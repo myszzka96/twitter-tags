@@ -1,0 +1,62 @@
+// Covid related questions
+%[covid]('training': '12000', 'testing': '1000')
+    ~[please?] ~[verb] ~[me?] ~[article?] @[topic]
+    ~[verb] ~[me?] ~[article?] @[topic] ~[please?]
+    ~[please?] ~[verb] ~[article?] @[topic]
+    ~[verb] ~[article?] @[topic]  ~[please?]
+
+~[verb]
+    tell me
+    find
+    search
+    search for
+    what
+    what is
+    what's
+    give me
+
+@[topic]
+    ~[tips]
+    ~[vaccine]
+    ~[statistics]
+    ~[report]
+    ~[other]
+    ~[mood]
+
+~[tips]
+    tips
+    tip
+    advice
+    behavior information
+
+~[report]
+    news
+    report
+
+~[vaccine]
+    vaccine
+    vaccines
+    vax
+    vaccination
+    vaccinations
+
+~[mood]
+    mood
+    sentiment
+    feeling
+    thoughts
+    opinion
+
+~[please]
+    please
+    could you
+    could you please
+    would you
+    would you please
+
+
+~[article]
+    a
+    an
+    the
+
