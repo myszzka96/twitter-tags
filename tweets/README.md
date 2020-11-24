@@ -8,7 +8,7 @@ In order to run the service, you'll need the virtual env. The order is
 ```bash
 $ source env/bin/activate
 (env) $ source ~/rasa_ws/devel/setup.bash
-(env) $ rosrun slang translator.py
+(env) $ rosrun <package name> <script name>
 ```
 
 This ensures that you're falling back on the right packages. Thanks python.
